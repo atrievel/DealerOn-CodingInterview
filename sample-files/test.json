@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Book",
+        "quantity": 1,
+        "cost": 12.49,
+        "isTaxable": false,
+        "isImported": false
+    },
+    {
+        "name": "Book",
+        "quantity": 1,
+        "cost": 12.49,
+        "isTaxable": false,
+        "isImported": false
+    },
+    {
+        "name": "Music CD",
+        "quantity": 1,
+        "cost": 14.99,
+        "isTaxable": true,
+        "isImported": false
+    },
+    {
+        "name": "Chocolate bar",
+        "quantity": 1,
+        "cost": 0.85,
+        "isTaxable": false,
+        "isImported": false
+    }
+]
